@@ -1,5 +1,6 @@
 package com.in28minutes.springboot.basics.springbootin10steps;
 
+//test
 public class Book {
 	long id;
 	String name;
